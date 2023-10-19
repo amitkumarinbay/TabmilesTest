@@ -5,7 +5,7 @@ Feature: Student Registration Form
    So that I can register myself
 
 
-@"Smoke"
+@Smoke
 
 Scenario Outline: Verify the Student register form
 Given User is on registration page "https://demoqa.com/automation-practice-form"

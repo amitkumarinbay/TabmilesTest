@@ -44,3 +44,49 @@
 01:39:37.930 [main] INFO  - TIMER_ALERT is working successfully
 01:39:38.065 [main] INFO  - CONFIRM_ALERT is working successfully
 01:39:38.238 [main] INFO  - PROMPT_ALERT is working successfully
+01:47:00.858 [main] INFO  - Browser is launched successfully
+01:47:01.018 [main] INFO  - Simple_Alert is working successfully 
+01:47:07.181 [main] INFO  - TIMER_ALERT is working successfully
+01:47:07.299 [main] INFO  - CONFIRM_ALERT is working successfully
+01:47:07.444 [main] INFO  - PROMPT_ALERT is working successfully
+01:55:35.157 [main] INFO  - Browser is launched successfully
+01:55:35.573 [main] INFO  - Values are entered into first name , last name and email Text box
+01:55:35.794 [main] INFO  - Gender is entered successfully on Student form
+01:55:36.013 [main] INFO  - phonenumber is entered successfully on Student form
+01:55:37.343 [main] INFO  - Subject is entered successfully on Student form
+01:55:37.525 [main] INFO  - Hobbies is entered successfully on Student form
+01:55:38.150 [main] INFO  - Date is entered successfully on Student form
+01:55:38.237 [main] INFO  - enteraddress is entered successfully on Student form
+01:55:44.291 [main] INFO  - Image is uploaded successfully on Student form
+01:55:44.533 [main] INFO  - State is entered successfully on Student form
+01:55:44.683 [main] INFO  - city is entered successfully on Student form
+01:55:45.876 [main] INFO  - submit is clicked successfully on Student form
+01:55:47.063 [main] INFO  - ConfirmRegister is executed successfully on Student form
+02:02:15.696 [main] INFO  - Browser is launched successfully
+02:02:15.902 [main] INFO  - Simple_Alert is working successfully 
+02:02:22.229 [main] INFO  - TIMER_ALERT is working successfully
+02:02:22.349 [main] INFO  - CONFIRM_ALERT is working successfully
+02:02:22.512 [main] INFO  - PROMPT_ALERT is working successfully
+02:07:30.109 [main] INFO  - Browser is launched successfully
+02:07:30.380 [main] INFO  - Simple_Alert is working successfully 
+02:07:36.650 [main] INFO  - TIMER_ALERT is working successfully
+02:07:36.750 [main] INFO  - CONFIRM_ALERT is working successfully
+02:07:36.920 [main] INFO  - PROMPT_ALERT is working successfully
+02:09:22.224 [main] INFO  - Browser is launched successfully
+02:09:22.354 [main] INFO  - Simple_Alert is working successfully 
+02:09:28.534 [main] INFO  - TIMER_ALERT is working successfully
+02:09:28.662 [main] INFO  - CONFIRM_ALERT is working successfully
+02:09:28.866 [main] INFO  - PROMPT_ALERT is working successfully
+02:15:49.863 [main] INFO  - Browser is launched successfully
+02:15:51.148 [main] INFO  - Values are entered into first name , last name and email Text box
+02:15:51.391 [main] INFO  - Gender is entered successfully on Student form
+02:15:51.572 [main] INFO  - phonenumber is entered successfully on Student form
+02:15:53.091 [main] INFO  - Subject is entered successfully on Student form
+02:15:53.293 [main] INFO  - Hobbies is entered successfully on Student form
+02:15:54.062 [main] INFO  - Date is entered successfully on Student form
+02:15:54.176 [main] INFO  - enteraddress is entered successfully on Student form
+02:16:00.289 [main] INFO  - Image is uploaded successfully on Student form
+02:16:00.572 [main] INFO  - State is entered successfully on Student form
+02:16:00.769 [main] INFO  - city is entered successfully on Student form
+02:16:01.986 [main] INFO  - submit is clicked successfully on Student form
+02:16:03.183 [main] INFO  - ConfirmRegister is executed successfully on Student form
