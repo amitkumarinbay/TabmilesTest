@@ -11,3 +11,4 @@ Feature: Verify Alerts
     And User clicks on the time based alert
     And User clicks on the confirmation alert
     And User clicks on the prompt alert and enter text as "Vaibhav"
+ 
