@@ -36,3 +36,11 @@
 00:15:02.584 [main] INFO  - submit is clicked successfully on Student form
 00:15:03.774 [main] INFO  - ConfirmRegister is executed successfully on Student form
 19:52:57.633 [main] INFO  - Browser is launched successfully
+00:44:07.993 [main] INFO  - Browser is launched successfully
+00:44:13.410 [main] INFO  - Browser is launched successfully
+01:15:28.019 [main] INFO  - Browser is launched successfully
+01:39:31.594 [main] INFO  - Browser is launched successfully
+01:39:31.700 [main] INFO  - Simple_Alert is working successfully 
+01:39:37.930 [main] INFO  - TIMER_ALERT is working successfully
+01:39:38.065 [main] INFO  - CONFIRM_ALERT is working successfully
+01:39:38.238 [main] INFO  - PROMPT_ALERT is working successfully

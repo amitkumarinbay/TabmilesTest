@@ -20,10 +20,10 @@ public class HandleAlerts {
 			driver.findElement(Alerts.SIMPLE_ALERT).click();
 			driver.switchTo().alert().accept();
 		} catch (NoAlertPresentException e) {
-			// TODO: handle exception
+			logger.info("Unable to find Alert Window on SIMPLE_ALERT click", e);
 		}
 		
-
+		logger.info("Simple_Alert is working successfully ");
 	}
 
 	
@@ -33,9 +33,9 @@ public class HandleAlerts {
 			Thread.sleep(6000);
 			driver.switchTo().alert().accept();
 		} catch (NoAlertPresentException e) {
-			// TODO: handle exception
+			logger.info("Unable to find Alert Window on TIMER_ALERT click", e);
 		}
-		
+		logger.info("TIMER_ALERT is working successfully");
 	}
 
 	
@@ -44,9 +44,9 @@ public class HandleAlerts {
 			driver.findElement(Alerts.CONFIRM_ALERT).click();
 			driver.switchTo().alert().dismiss();
 		} catch (NoAlertPresentException e) {
-			// TODO: handle exception
+			logger.info("Unable to find Alert Window on CONFIRM_ALERT click", e);
 		}
-		
+		logger.info("CONFIRM_ALERT is working successfully");	
 
 	}
 
@@ -57,13 +57,13 @@ public class HandleAlerts {
 			driver.switchTo().alert().sendKeys(str);
 			driver.switchTo().alert().accept();
 		} catch (NoAlertPresentException e) {
-			// TODO: handle exception
+			logger.info("Unable to find Alert Window on PROMPT_ALERT click", e);
 		}
 		catch (NoSuchElementException e) {
-			// TODO: handle exception
+			logger.info("Unable to locate ALERT on PROMPT_ALERT click", e);
 		}
 		
-		
+		logger.info("PROMPT_ALERT is working successfully");	
 		
 		driver.quit();
 	}

@@ -10,5 +10,5 @@ Feature: Verify Alerts
     When User clicks on the Simple Alert
     And User clicks on the time based alert
     And User clicks on the confirmation alert
-    And User clicks on the prompt alert and enter text as "Vaibhav"
+    And User clicks on the prompt alert and enter text as "Amit Kumar"
  

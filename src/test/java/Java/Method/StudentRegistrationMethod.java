@@ -50,7 +50,7 @@ public class StudentRegistrationMethod {
 		} catch (TimeoutException e) {
 			logger.info("TimeoutException in first name , last name and email Text box", e);
 		}
-		logger.info("Values are enetered into first name , last name and email Text box");
+		logger.info("Values are entered into first name , last name and email Text box");
 	}
 
 	public static void enteraddress(WebDriver driver, String address) throws InterruptedException, AWTException {
@@ -61,9 +61,9 @@ public class StudentRegistrationMethod {
 			logger.info("Unable to locate CURRENTADDRESS on registration form", e);
 		} catch (TimeoutException e) {
 
-			logger.info("TimeoutException in CURRENTADDRESS on registration form", e);
+			logger.info("TimeoutException in address on registration form", e);
 		}
-		logger.info("enteraddress is enetered successfully on Student form");
+		logger.info("enteraddress is entered successfully on Student form");
 	}
 
 	public static void enterPhone(WebDriver driver, String Phonenumber) throws InterruptedException {
@@ -74,9 +74,10 @@ public class StudentRegistrationMethod {
 			logger.info("Unable to locate PHONE on registration form", e);
 		} catch (TimeoutException e) {
 			e.printStackTrace();
+			logger.info("TimeoutException in Phonenumber on registration form", e);
 
 		}
-		logger.info("phonenumber is enetered successfully on Student form");
+		logger.info("phonenumber is entered successfully on Student form");
 	}
 
 	public static void selectGender(WebDriver driver) throws AWTException {
@@ -92,9 +93,10 @@ public class StudentRegistrationMethod {
 			logger.info("Unable to locate GENDER on registration form", e);
 		} catch (TimeoutException e) {
 			e.printStackTrace();
+			logger.info("TimeoutException in Gender on registration form", e);
 
 		}
-		logger.info("Gender is enetered successfully on Student form");
+		logger.info("Gender is entered successfully on Student form");
 	}
 
 	public static void confirmRegister(WebDriver driver) throws InterruptedException {
@@ -127,9 +129,9 @@ public class StudentRegistrationMethod {
 			logger.info("Unable to locate AUTOSUGGESTION_OPTIONS on registration form", e);
 		} catch (TimeoutException e) {
 			e.printStackTrace();
-
+			logger.info("TimeoutException in AUTOSUGGESTION_OPTIONS on registration form", e);
 		}
-		logger.info("Subject is enetered successfully on Student form");
+		logger.info("Subject is entered successfully on Student form");
 	}
 
 	public static void selectHobbies(WebDriver driver, String hob) {
@@ -148,8 +150,9 @@ public class StudentRegistrationMethod {
 			logger.info("Unable to locate HOBBIES on registration form", e);
 		} catch (TimeoutException e) {
 			e.printStackTrace();
+			logger.info("TimeoutException in HOBBIES on registration form", e);
 		}
-		logger.info("Hobbies is enetered successfully on Student form");
+		logger.info("Hobbies is entered successfully on Student form");
 	}
 
 	public static void selectDate(WebDriver driver) {
@@ -177,9 +180,9 @@ public class StudentRegistrationMethod {
 			logger.info("Unable to locate DATE_MONTH OR DATE_YEAR OR DAY on registration form", e);
 		} catch (TimeoutException e) {
 			e.printStackTrace();
-
+			logger.info("TimeoutException in Date on registration form", e);
 		}
-		logger.info("Date is enetered successfully on Student form");
+		logger.info("Date is entered successfully on Student form");
 	}
 
 	public static void uploadImage(WebDriver driver) throws InterruptedException {
@@ -196,7 +199,7 @@ public class StudentRegistrationMethod {
 			logger.info("Unable to locate UPLOAD_IMAGE on registration form", e);
 		} catch (NoSuchWindowException e) {
 			e.printStackTrace();
-
+			logger.info("TimeoutException in UPLOAD_IMAGE on registration form", e);
 		}
 		logger.info("Image is uploaded successfully on Student form");
 	}
@@ -216,9 +219,9 @@ public class StudentRegistrationMethod {
 			logger.info("Unable to locate STATE AND STATE_VALUE on registration form", e);
 		} catch (TimeoutException e) {
 			e.printStackTrace();
-
+			logger.info("TimeoutException in STATE AND STATE_VALUE on registration form", e);
 		}
-		logger.info("State is enetered successfully on Student form");
+		logger.info("State is entered successfully on Student form");
 	}
 
 	public static void selectcity(WebDriver driver, String city) {
@@ -232,9 +235,9 @@ public class StudentRegistrationMethod {
 			logger.info("Unable to locate CITY AND CITY_VALUES on registration form", e);
 		} catch (TimeoutException e) {
 			e.printStackTrace();
-
+			logger.info("TimeoutException in CITY AND CITY_VALUES on registration form", e);
 		}
-		logger.info("city is enetered successfully on Student form");
+		logger.info("city is entered successfully on Student form");
 	}
 
 	public static void Submit(WebDriver driver) throws InterruptedException {
@@ -248,7 +251,7 @@ public class StudentRegistrationMethod {
 			System.out.println("Unable to locate Submit button on the Practice form" + e);
 		} catch (TimeoutException e) {
 			e.printStackTrace();
-
+			logger.info("TimeoutException in SUBMIT on registration form", e);
 		}
 		logger.info("submit is clicked successfully on Student form");
 	}
