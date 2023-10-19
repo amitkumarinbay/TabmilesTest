@@ -90,3 +90,7 @@
 02:16:00.769 [main] INFO  - city is entered successfully on Student form
 02:16:01.986 [main] INFO  - submit is clicked successfully on Student form
 02:16:03.183 [main] INFO  - ConfirmRegister is executed successfully on Student form
+04:17:12.934 [main] INFO  - Browser is launched successfully
+04:17:14.244 [main] INFO  - NEW_TAB is clicked successfully on Browser Window
+04:17:20.609 [main] INFO  - NEW_WINDOW is clicked successfully on Browser Window
+04:17:26.873 [main] INFO  - NEW_WINDOW_MESSAGE is clicked successfully on Browser Window
