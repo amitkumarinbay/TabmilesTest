@@ -3,7 +3,7 @@ package runner;
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
-@CucumberOptions(features = "src/test/resources/Feature/BrowserWindows.feature", glue = "Steps", plugin = {
+@CucumberOptions(features = "src/test/resources/Feature/TabmilesLogin.feature", glue = "Steps", plugin = {
 		"json:target/cucumber-reports/Cucumber.json",
 		"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:" }, tags = "@Smoke")
 

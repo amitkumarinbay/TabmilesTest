@@ -94,3 +94,19 @@
 04:17:14.244 [main] INFO  - NEW_TAB is clicked successfully on Browser Window
 04:17:20.609 [main] INFO  - NEW_WINDOW is clicked successfully on Browser Window
 04:17:26.873 [main] INFO  - NEW_WINDOW_MESSAGE is clicked successfully on Browser Window
+23:40:13.628 [main] INFO  - Browser is launched successfully
+23:40:18.699 [main] INFO  - Values are entered into first name , last name and email Text box
+23:40:21.404 [main] INFO  - Gender is entered successfully on Student form
+23:40:21.694 [main] INFO  - phonenumber is entered successfully on Student form
+23:40:23.758 [main] INFO  - Subject is entered successfully on Student form
+23:40:24.112 [main] INFO  - Hobbies is entered successfully on Student form
+23:40:26.169 [main] INFO  - Date is entered successfully on Student form
+23:40:26.338 [main] INFO  - enteraddress is entered successfully on Student form
+23:40:32.459 [main] INFO  - Image is uploaded successfully on Student form
+23:40:32.789 [main] INFO  - State is entered successfully on Student form
+23:40:33.032 [main] INFO  - city is entered successfully on Student form
+23:40:34.388 [main] INFO  - submit is clicked successfully on Student form
+23:40:35.616 [main] INFO  - ConfirmRegister is executed successfully on Student form
+18:30:10.361 [main] INFO  - Browser is launched successfully
+18:38:39.207 [main] INFO  - Browser is launched successfully
+18:42:21.367 [main] INFO  - Browser is launched successfully
