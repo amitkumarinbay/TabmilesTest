@@ -21,25 +21,25 @@ public TabmilesLoginStep () {
 	
 	@Given("the user navigates to the Browser Window Page at {string}")
 	public void the_user_navigates_to_the_browser_window_page_at(String string) {
-	   TabmilesLoginMethod.enterEmailid(driver, string);
+	   TabmilesLoginMethod.launchBrowser(driver, string);
 	    
 	}
 
 	@When("the user enters the email ID as {string}")
 	public void the_user_enters_the_email_id_as(String string) {
-	   
+		TabmilesLoginMethod.enterEmailid(driver, string);
 	    
 	}
 
 	@And("the user enters the password as {string}")
 	public void the_user_enters_the_password_as(String string) {
-	   
+	   TabmilesLoginMethod.enterPassword(driver, string);
 	    
 	}
 
 	@And("the user clicks on the login button")
 	public void the_user_clicks_on_the_login_button() {
-	   
+	   TabmilesLoginMethod.clickLogin(driver);
 	    
 	}
 

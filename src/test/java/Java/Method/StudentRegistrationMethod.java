@@ -1,14 +1,12 @@
 package Java.Method;
 
 import java.awt.AWTException;
-import java.sql.SQLException;
 import java.time.Duration;
 import java.util.List;
 import java.util.NoSuchElementException;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchWindowException;
 import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebDriver;
