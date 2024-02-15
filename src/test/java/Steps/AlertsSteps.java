@@ -16,7 +16,7 @@ public class AlertsSteps {
 	private WebDriver driver;
 
 	public AlertsSteps() {
-		driver = Hooks.driver ;
+		driver = Hooks.driver;
 	}
 	
 	@Given("User is on Alert page {string}")

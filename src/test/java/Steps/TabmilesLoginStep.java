@@ -14,7 +14,7 @@ public class TabmilesLoginStep {
 private WebDriver driver;
 
 public TabmilesLoginStep () {
-	driver = Hooks.driver;
+	driver = Hooks.driver ;
 }
 
 	
@@ -45,7 +45,7 @@ public TabmilesLoginStep () {
 
 	@Then("the user should log in successfully into the portal")
 	public void the_user_should_log_in_successfully_into_the_portal() {
-	   
+	  TabmilesLoginMethod.verifyUrl(driver); 
 	    
 	}
 

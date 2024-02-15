@@ -30,7 +30,7 @@ public class StudentRegistrationOR {
 	public static final By UPLOAD_IMAGE = By.id("uploadPicture");
 	public static final By STATE = By.id("state");
 	// Need to understand this line
-	public static final By STATE_VALUE = By.id("react-select-3-option-3");
+	public static final By STATE_VALUE = By.id("react-select-3-option-0");
 
 	public static final By CITY = By.id("city");
 	// Need to understand this line

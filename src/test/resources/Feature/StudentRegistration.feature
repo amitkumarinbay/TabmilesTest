@@ -12,7 +12,7 @@ Feature: Student Registration Form
     And User enter mobile number as "8284898563"
     And User Enters Subject as "<Subject>", Hobbies as "<Hobbies>", Select Date and address as "<Address>"
     And User upload the picture
-    And User select State as "Rajasthan" and City as "Jaipur"
+    And User select State as "NCR" and City as "Delhi"
     And User Click on the submit button
     Then User should register successfully into the portal
 

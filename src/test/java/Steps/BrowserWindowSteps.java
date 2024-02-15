@@ -14,7 +14,7 @@ public class BrowserWindowSteps {
 	private WebDriver driver;
 
 	public BrowserWindowSteps() {
-		driver = Hooks.driver ;
+		driver = Hooks.driver;
 	}
 	
 	

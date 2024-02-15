@@ -49,7 +49,7 @@ public class StudentRegistrationSteps {
 	    StudentRegistrationMethod.enterSubject(driver, sub);
 	    StudentRegistrationMethod.selectHobbies(driver, hob);
 	    StudentRegistrationMethod.selectDate(driver);
-	    StudentRegistrationMethod.enteraddress(driver, add); 
+	    StudentRegistrationMethod.enterAddress(driver, add); 
 	    
 	}
 
@@ -62,14 +62,14 @@ public class StudentRegistrationSteps {
 
 	@And("User select State as {string} and City as {string}")
 	public void user_select_state_as_and_city_as(String state, String city) {
-		StudentRegistrationMethod.selectState(driver, state);
-		StudentRegistrationMethod.selectcity(driver, city);
+		StudentRegistrationMethod.selectState(driver, state) ;
+		StudentRegistrationMethod.selectCity(driver, city);
 	    
 	}
 
 	@And("User Click on the submit button")
 	public void user_click_on_the_submit_button() throws InterruptedException {
-		StudentRegistrationMethod.Submit(driver);
+		StudentRegistrationMethod.submit(driver);
 	    
 	}
 

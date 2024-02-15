@@ -143,3 +143,96 @@
 11:45:52.029 [main] INFO  - Value is entered into Email_ID Text box
 11:45:52.151 [main] INFO  - Value is entered into Password Text box
 11:45:55.629 [main] INFO  - Login Button is successfully clicked
+13:08:01.153 [main] INFO  - Browser is launched successfully
+13:08:04.595 [main] INFO  - NEW_TAB is clicked successfully on Browser Window
+13:08:11.349 [main] INFO  - NEW_WINDOW is clicked successfully on Browser Window
+13:08:17.776 [main] INFO  - NEW_WINDOW_MESSAGE is clicked successfully on Browser Window
+13:08:33.319 [main] INFO  - Browser is launched successfully
+13:08:34.612 [main] INFO  - Values are entered into first name , last name and email Text box
+13:08:34.836 [main] INFO  - Gender is entered successfully on Student form
+13:08:35.056 [main] INFO  - phonenumber is entered successfully on Student form
+13:08:37.187 [main] INFO  - Subject is entered successfully on Student form
+13:08:37.401 [main] INFO  - Hobbies is entered successfully on Student form
+13:08:39.061 [main] INFO  - Date is entered successfully on Student form
+13:08:39.238 [main] INFO  - enteraddress is entered successfully on Student form
+13:08:45.343 [main] INFO  - Image is uploaded successfully on Student form
+13:08:57.750 [main] INFO  - Browser is launched successfully
+13:08:58.113 [main] INFO  - Value is entered into Email_ID Text box
+13:08:58.244 [main] INFO  - Value is entered into Password Text box
+13:09:01.496 [main] INFO  - Login Button is successfully clicked
+13:50:53.225 [main] INFO  - Browser is launched successfully
+13:50:58.122 [main] INFO  - Values are entered into first name , last name and email Text box
+13:50:58.998 [main] INFO  - Gender is entered successfully on Student form
+13:50:59.326 [main] INFO  - phonenumber is entered successfully on Student form
+13:51:02.498 [main] INFO  - Subject is entered successfully on Student form
+13:51:02.846 [main] INFO  - Hobbies is entered successfully on Student form
+13:51:04.265 [main] INFO  - Date is entered successfully on Student form
+13:51:04.429 [main] INFO  - enteraddress is entered successfully on Student form
+13:51:10.572 [main] INFO  - Image is uploaded successfully on Student form
+15:30:19.993 [main] INFO  - Browser is launched successfully
+15:30:33.156 [main] INFO  - Values are entered into first name, last name, and email Text box
+15:30:33.610 [main] INFO  - Gender is entered successfully on Student form
+15:30:33.868 [main] INFO  - Phone number is entered successfully on Student form
+15:30:39.981 [main] INFO  - Subject is entered successfully on Student form
+15:30:40.273 [main] INFO  - Hobbies is entered successfully on Student form
+15:30:42.506 [main] INFO  - Date is entered successfully on Student form
+15:30:42.733 [main] INFO  - Address is entered successfully on Student form
+15:30:50.364 [main] INFO  - Image is uploaded successfully on Student form
+15:35:54.858 [main] INFO  - Browser is launched successfully
+15:35:56.761 [main] INFO  - Values are entered into first name, last name, and email Text box
+15:35:57.218 [main] INFO  - Gender is entered successfully on Student form
+15:35:59.449 [main] INFO  - Phone number is entered successfully on Student form
+15:36:04.714 [main] INFO  - Subject is entered successfully on Student form
+15:36:05.695 [main] INFO  - Hobbies is entered successfully on Student form
+15:36:07.282 [main] INFO  - Date is entered successfully on Student form
+15:36:07.449 [main] INFO  - Address is entered successfully on Student form
+15:36:13.581 [main] INFO  - Image is uploaded successfully on Student form
+16:15:32.219 [main] INFO  - Browser is launched successfully
+16:15:33.977 [main] INFO  - Values are entered into first name, last name, and email Text box
+16:15:34.331 [main] INFO  - Gender is entered successfully on Student form
+16:15:34.511 [main] INFO  - Phone number is entered successfully on Student form
+16:15:36.148 [main] INFO  - Subject is entered successfully on Student form
+16:15:36.365 [main] INFO  - Hobbies is entered successfully on Student form
+16:15:37.780 [main] INFO  - Date is entered successfully on Student form
+16:15:37.924 [main] INFO  - Address is entered successfully on Student form
+16:15:44.063 [main] INFO  - Image is uploaded successfully on Student form
+16:21:57.836 [main] INFO  - Browser is launched successfully
+16:21:58.498 [main] INFO  - Values are entered into first name, last name, and email Text box
+16:21:58.728 [main] INFO  - Gender is entered successfully on Student form
+16:21:58.930 [main] INFO  - Phone number is entered successfully on Student form
+16:22:04.332 [main] INFO  - Subject is entered successfully on Student form
+16:22:04.678 [main] INFO  - Hobbies is entered successfully on Student form
+16:22:08.532 [main] INFO  - Date is entered successfully on Student form
+16:22:08.710 [main] INFO  - Address is entered successfully on Student form
+16:22:14.847 [main] INFO  - Image is uploaded successfully on Student form
+16:36:11.255 [main] INFO  - Browser is launched successfully
+16:36:11.969 [main] INFO  - Values are entered into first name, last name, and email Text box
+16:36:12.787 [main] INFO  - Gender is entered successfully on Student form
+16:36:12.984 [main] INFO  - Phone number is entered successfully on Student form
+16:36:14.747 [main] INFO  - Subject is entered successfully on Student form
+16:36:15.024 [main] INFO  - Hobbies is entered successfully on Student form
+16:36:16.501 [main] INFO  - Date is entered successfully on Student form
+16:36:16.687 [main] INFO  - Address is entered successfully on Student form
+16:36:22.789 [main] INFO  - Image is uploaded successfully on Student form
+16:36:23.070 [main] INFO  - State is entered successfully on Student form
+16:36:23.319 [main] INFO  - City is entered successfully on Student form
+16:36:24.655 [main] INFO  - Submit button is clicked successfully on Student form
+16:36:25.863 [main] INFO  - ConfirmRegister is executed successfully on Student form
+16:44:36.793 [main] INFO  - Browser is launched successfully
+16:44:39.201 [main] INFO  - Values are entered into first name, last name, and email Text box
+16:44:39.836 [main] INFO  - Gender is entered successfully on Student form
+16:44:40.082 [main] INFO  - Phone number is entered successfully on Student form
+16:44:41.827 [main] INFO  - Subject is entered successfully on Student form
+16:44:42.075 [main] INFO  - Hobbies is entered successfully on Student form
+16:44:43.808 [main] INFO  - Date is entered successfully on Student form
+16:44:43.988 [main] INFO  - Address is entered successfully on Student form
+16:44:50.107 [main] INFO  - Image is uploaded successfully on Student form
+16:44:50.393 [main] INFO  - State is entered successfully on Student form
+16:44:50.700 [main] INFO  - City is entered successfully on Student form
+16:44:52.021 [main] INFO  - Submit button is clicked successfully on Student form
+16:44:53.262 [main] INFO  - ConfirmRegister is executed successfully on Student form
+17:22:37.131 [main] INFO  - Browser is launched successfully
+17:22:37.586 [main] INFO  - Value is entered into Email_ID Text box
+17:22:37.708 [main] INFO  - Value is entered into Password Text box
+17:22:41.098 [main] INFO  - Login Button is successfully clicked
+17:22:41.116 [main] INFO  - User successfully log in  into the portal
