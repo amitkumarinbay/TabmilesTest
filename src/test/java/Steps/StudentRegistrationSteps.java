@@ -16,7 +16,7 @@ public class StudentRegistrationSteps {
 	private WebDriver driver;
 
 	public StudentRegistrationSteps() {
-		driver = Hooks.driver;
+		driver = Hooks.driver ;
 
 	}
 	

@@ -1,6 +1,9 @@
 package Steps;
 
-	import org.openqa.selenium.OutputType;
+	import java.time.Duration;
+
+
+import org.openqa.selenium.OutputType;
 	import org.openqa.selenium.TakesScreenshot;
 	import org.openqa.selenium.WebDriver;
 	import org.openqa.selenium.chrome.ChromeDriver;
@@ -8,11 +11,15 @@ package Steps;
 	import io.cucumber.java.After;
 	import io.cucumber.java.Before;
 	import io.cucumber.java.Scenario;
-	import io.github.bonigarcia.wdm.WebDriverManager;
+	//import io.github.bonigarcia.wdm.WebDriverManager;
+import io.github.bonigarcia.wdm.WebDriverManager;
 
 	public class Hooks {
 		public static WebDriver driver;
 
+		@SuppressWarnings("deprecation")
+		
+		
 		@Before 
 		public void setup() {
 			WebDriverManager.chromedriver().setup();
@@ -23,7 +30,7 @@ package Steps;
 			driver = new ChromeDriver(cr);
 			driver.manage().window().maximize();
 			driver.manage().deleteAllCookies();
-		}
+			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));		}
 
 		@After
 		public void tearDown(Scenario scenario) {

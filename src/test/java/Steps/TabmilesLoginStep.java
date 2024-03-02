@@ -14,7 +14,7 @@ public class TabmilesLoginStep {
 private WebDriver driver;
 
 public TabmilesLoginStep () {
-	driver = Hooks.driver ;
+	driver = Hooks.driver;
 }
 
 	
